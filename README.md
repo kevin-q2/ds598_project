@@ -21,9 +21,9 @@ On feature learning in the
 presence of spurious correlations. Advances in Neural Information Processing Systems, 35:38516–38532,
 2022. 
 
-<a href="https://arxiv.org/abs/2306.11074">[1]</a> 
+<a href="https://arxiv.org/abs/2306.11074">[2]</a> 
 Qiu, Potapczynski, Izmailov, and Wilson. Simple and fast group
 robustness by automatic feature reweighting. In International Conference on Machine Learning,
 pages 28448–28467. PMLR, 2023
 
-<a href="https://github.com/greydanus/mnist1d">[2]</a>  Sam Greydanus. Scaling down deep learning, 2020
+<a href="https://github.com/greydanus/mnist1d">[3]</a>  Sam Greydanus. Scaling down deep learning, 2020
